@@ -1,2 +1,2 @@
 # BSuplyer
-Testin Adndroid Studio!
+Agenda de previsões de entrega dos fornecedores
